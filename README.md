@@ -1,2 +1,3 @@
 # AllenTest
-This is an original line
+I add the first line;
+I add the second line
